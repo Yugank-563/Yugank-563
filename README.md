@@ -9,7 +9,7 @@
 
 ### 🛠️ Skills:
 - 💻 **Languages :** C, C++, JavaScript
-- 🎨 **Frontend :** HTML5, CSS3, React.js, Tailwind CSS
+- 🎨 **Frontend :** HTML, CSS, React.js, Tailwind CSS
 - ⚙️ **Backend :** Node.js, Express.js, Socket.IO
 - 🗄️ **Databases :** MongoDB, MySQL, Redis
 - 🛠️ **Tools & Platforms :** Git, GitHub, Postman, VS Code, Linux (Ubuntu)
